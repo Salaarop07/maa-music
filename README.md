@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://graph.org/file/b433d10185474697c8a9c.jpg">
 
 <div align="center">
   <img src="https://graph.org/file/7d71ea16ab3c795806bde.jpg" alt="Telugu Coders Music Bot Logo" width="200" height="200">
@@ -68,7 +68,7 @@ This is a simple Telegram Music Bot made using the Pyrogram library in Python. I
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
 <pre>
 <b>Amala Music</b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/Telugucoders/AmalaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Salaarop07/maa-music/edit/amala/README.md"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 
 
@@ -89,4 +89,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Telugucoders
 <pre>
 ## credits
 
-[Kanna](https://t.me/Aboutpokemon) |  [Aditya](https://t.me/AdityaHalder)  |  [Santhu](https://t.me/My_Name_Is_Nobitha) 
+[Salaar](https://t.me/salaar)  
