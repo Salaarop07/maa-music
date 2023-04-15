@@ -1,4 +1,4 @@
-# Powered By Kanna & Kaal
+# Powered By alexa pro music
 
 import os
 import re
